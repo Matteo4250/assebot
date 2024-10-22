@@ -1,0 +1,184 @@
+[
+    {
+      "id": 1,
+      "nom": "Brice Maubleu",
+      "poste": "Gardien",
+      "nationalite": "France",
+      "photoUrl": "https://www.asse.fr/img/ombre_effectif.png"
+    },
+    {
+      "id": 16,
+      "nom": "Boubacar Fall",
+      "poste": "Gardien",
+      "nationalite": "Sénégal",
+      "photoUrl": "https://www.asse.fr/img/effectifs/fall-221637029.png"
+    },
+    {
+      "id": 30,
+      "nom": "Gautier Larsonneur",
+      "poste": "Gardien",
+      "nationalite": "France",
+      "photoUrl": "https://www.asse.fr/img/effectifs/larsonneur-759246975.png"
+    },
+    {
+      "id": 3,
+      "nom": "Mickaël Nadé",
+      "poste": "Défenseur",
+      "nationalite": "France",
+      "photoUrl": "https://www.asse.fr/img/ombre_effectif.png"
+    },
+    {
+      "id": 5,
+      "nom": "Yunis Abdelhamid",
+      "poste": "Défenseur",
+      "nationalite": "Maroc",
+      "photoUrl": "https://www.asse.fr/img/ombre_effectif.png"
+    },
+    {
+      "id": 8,
+      "nom": "Dennis Appiah",
+      "poste": "Défenseur",
+      "nationalite": "France",
+      "photoUrl": "https://www.asse.fr/img/ombre_effectif.png"
+    },
+    {
+      "id": 17,
+      "nom": "Pierre Cornud",
+      "poste": "Défenseur",
+      "nationalite": "France",
+      "photoUrl": "https://www.asse.fr/img/ombre_effectif.png"
+    },
+    {
+      "id": 19,
+      "nom": "Léo Pétrot",
+      "poste": "Défenseur",
+      "nationalite": "France",
+      "photoUrl": "https://www.asse.fr/img/ombre_effectif.png"
+    },
+    {
+      "id": 21,
+      "nom": "Dylan Batubinsika",
+      "poste": "Défenseur",
+      "nationalite": "RD Congo",
+      "photoUrl": "https://www.asse.fr/img/ombre_effectif.png"
+    },
+    {
+      "id": 23,
+      "nom": "Anthony Briançon",
+      "poste": "Défenseur",
+      "nationalite": "France",
+      "photoUrl": "https://www.asse.fr/img/ombre_effectif.png"
+    },
+    {
+      "id": 27,
+      "nom": "Yvann Maçon",
+      "poste": "Défenseur",
+      "nationalite": "France",
+      "photoUrl": "https://www.asse.fr/img/ombre_effectif.png"
+    },
+    {
+      "id": 4,
+      "nom": "Pierre Ekwah",
+      "poste": "Milieu",
+      "nationalite": "France",
+      "photoUrl": "https://www.asse.fr/img/ombre_effectif.png"
+    },
+    {
+      "id": 6,
+      "nom": "Benjamin Bouchouari",
+      "poste": "Milieu",
+      "nationalite": "Maroc",
+      "photoUrl": "https://www.asse.fr/img/ombre_effectif.png"
+    },
+    {
+      "id": 7,
+      "nom": "Thomas Monconduit",
+      "poste": "Milieu",
+      "nationalite": "France",
+      "photoUrl": "https://www.asse.fr/img/ombre_effectif.png"
+    },
+    {
+      "id": 10,
+      "nom": "Florian Tardieu",
+      "poste": "Milieu",
+      "nationalite": "France",
+      "photoUrl": "https://www.asse.fr/img/ombre_effectif.png"
+    },
+    {
+      "id": 14,
+      "nom": "Louis Mouton",
+      "poste": "Milieu",
+      "nationalite": "France",
+      "photoUrl": "https://www.asse.fr/img/ombre_effectif.png"
+    },
+    {
+      "id": 18,
+      "nom": "Mathieu Cafaro",
+      "poste": "Milieu",
+      "nationalite": "France",
+      "photoUrl": "https://www.asse.fr/img/ombre_effectif.png"
+    },
+    {
+      "id": 26,
+      "nom": "Lamine Fomba",
+      "poste": "Milieu",
+      "nationalite": "France",
+      "photoUrl": "https://www.asse.fr/img/ombre_effectif.png"
+    },
+    {
+      "id": 28,
+      "nom": "Igor Miladinovic",
+      "poste": "Milieu",
+      "nationalite": "Serbie",
+      "photoUrl": "https://www.asse.fr/img/ombre_effectif.png"
+    },
+    {
+      "id": 29,
+      "nom": "Aïmen Moueffek",
+      "poste": "Milieu",
+      "nationalite": "Maroc",
+      "photoUrl": "https://www.asse.fr/img/ombre_effectif.png"
+    },
+    {
+      "id": 9,
+      "nom": "Ibrahim Sissoko",
+      "poste": "Attaquant",
+      "nationalite": "Mali",
+      "photoUrl": "https://www.asse.fr/img/ombre_effectif.png"
+    },
+    {
+      "id": 11,
+      "nom": "Ben Old",
+      "poste": "Attaquant",
+      "nationalite": "Nouvelle-Zélande",
+      "photoUrl": "https://www.asse.fr/img/ombre_effectif.png"
+    },
+    {
+      "id": 20,
+      "nom": "Augustine Boakye",
+      "poste": "Attaquant",
+      "nationalite": "Ghana",
+      "photoUrl": "https://www.asse.fr/img/ombre_effectif.png"
+    },
+    {
+      "id": 22,
+      "nom": "Zuriko Davitashvili",
+      "poste": "Attaquant",
+      "nationalite": "Géorgie",
+      "photoUrl": "https://www.asse.fr/img/ombre_effectif.png"
+    },
+    {
+      "id": 25,
+      "nom": "Ibrahima Wadji",
+      "poste": "Attaquant",
+      "nationalite": "Sénégal",
+      "photoUrl": "https://www.asse.fr/img/ombre_effectif.png"
+    },
+    {
+      "id": 32,
+      "nom": "Lucas Stassin",
+      "poste": "Attaquant",
+      "nationalite": "Belgique",
+      "photoUrl": "https://www.asse.fr/img/ombre_effectif.png"
+    }
+  ]

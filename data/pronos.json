@@ -1,0 +1,163 @@
+[
+  {
+    "userId": "612216978517655553",
+    "username": "matteo4250",
+    "matchId": "1724691731576",
+    "opponent": "METZ",
+    "opponentScore": 1,
+    "homeScore": 3,
+    "scorers": [
+      "SISSOKO",
+      "APPIAH",
+      "CAFARO"
+    ],
+    "timestamp": "2024-08-31T18:43:31.318Z"
+  },
+  {
+    "userId": "612216978517655553",
+    "username": "matteo4250",
+    "matchId": "1726072571452",
+    "opponent": "BREST",
+    "opponentScore": 2,
+    "homeScore": 1,
+    "scorers": [
+      "WADJI"
+    ],
+    "timestamp": "2024-09-11T16:45:49.177Z"
+  },
+  {
+    "userId": "785141286784073738",
+    "username": "johnscoott",
+    "matchId": "1726072571452",
+    "opponent": "BREST",
+    "opponentScore": 0,
+    "homeScore": 1,
+    "scorers": [
+      "DAVITASHVILI"
+    ],
+    "timestamp": "2024-09-11T20:00:06.895Z"
+  },
+  {
+    "userId": "612216978517655553",
+    "username": "matteo4250",
+    "matchId": "1726084897068",
+    "opponent": "toto",
+    "opponentScore": 1,
+    "homeScore": 4,
+    "scorers": [
+      "WADJI",
+      "FOMBA",
+      "DAVITASHVILI",
+      "SISSOKO"
+    ],
+    "timestamp": "2024-09-11T20:03:03.671Z"
+  },
+  {
+    "userId": "785141286784073738",
+    "username": "johnscoott",
+    "matchId": "1726085582563",
+    "opponent": "azerty",
+    "opponentScore": 3,
+    "homeScore": 4,
+    "scorers": [
+      "CAFARO",
+      "SISSOKO",
+      "AIKI",
+      "TARDIEU"
+    ],
+    "timestamp": "2024-09-11T20:14:07.315Z"
+  },
+  {
+    "userId": "612216978517655553",
+    "username": "matteo4250",
+    "matchId": "1726085582563",
+    "opponent": "azerty",
+    "opponentScore": 0,
+    "homeScore": 2,
+    "scorers": [
+      "WADJI",
+      "WADJI"
+    ],
+    "timestamp": "2024-09-11T20:19:16.894Z"
+  },
+  {
+    "userId": "380807756799672331",
+    "username": "tramash",
+    "matchId": "1726085582563",
+    "opponent": "azerty",
+    "opponentScore": 1,
+    "homeScore": 2,
+    "scorers": [
+      "CSC",
+      "CSC"
+    ],
+    "timestamp": "2024-09-11T20:19:49.021Z"
+  },
+  {
+    "userId": "612216978517655553",
+    "username": "matteo4250",
+    "matchId": "1726086166495",
+    "opponent": "dfs",
+    "opponentScore": 0,
+    "homeScore": 2,
+    "scorers": [
+      "WADJI",
+      "WADJI"
+    ],
+    "timestamp": "2024-09-11T20:23:47.884Z"
+  },
+  {
+    "userId": "662955209042952224",
+    "username": "titou9765",
+    "matchId": "1726086287982",
+    "opponent": "azerty",
+    "opponentScore": 2,
+    "homeScore": 3,
+    "scorers": [
+      "DAVITASHVILI",
+      "SISSOKO",
+      "DAVITASHVILI"
+    ],
+    "timestamp": "2024-09-11T20:26:40.088Z"
+  },
+  {
+    "userId": "612216978517655553",
+    "username": "matteo4250",
+    "matchId": "1726086287982",
+    "opponent": "azerty",
+    "opponentScore": 1,
+    "homeScore": 2,
+    "scorers": [
+      "WADJI",
+      "WADJI"
+    ],
+    "timestamp": "2024-09-11T20:29:38.007Z"
+  },
+  {
+    "userId": "612216978517655553",
+    "username": "matteo4250",
+    "matchId": "1726231249312",
+    "opponent": "der",
+    "opponentScore": 1,
+    "homeScore": 1,
+    "scorers": [
+      "WADJI"
+    ],
+    "timestamp": "2024-09-13T15:56:12.799Z"
+  },
+  {
+    "userId": "612216978517655553",
+    "username": "matteo4250",
+    "matchId": "1726256401247",
+    "opponent": "PSG",
+    "opponentScore": 3,
+    "homeScore": 4,
+    "scorers": [
+      "DAVITASHVILI",
+      "CAFARO",
+      "DAVITASHVILI",
+      "WADJI"
+    ],
+    "timestamp": "2024-09-13T19:40:38.375Z"
+  }
+]
